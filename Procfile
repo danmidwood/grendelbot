@@ -1,0 +1,1 @@
+tweet: lein run -m grendelbot.core
