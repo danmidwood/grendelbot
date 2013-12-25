@@ -6,6 +6,5 @@
   :dependencies [[org.clojure/clojure "1.5.0"]
                  [twitter-api "0.7.4"]
                  [environ "0.4.0"]]
-  :hooks [environ.leiningen.hooks]
   :plugins [[environ/environ.lein "0.2.1"]]
   :main grendelbot.core)
