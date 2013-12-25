@@ -1,8 +1,8 @@
 # Grendelbot
 
-> I shake my two hairy fists at the sky and I let out a tweet so unspeakable that the water at my feet turns sudden ice and even I myself am left uneasy.
-
 ![Grendel image from book cover](https://github.com/danmidwood/grendelbot/raw/master/grendel.jpeg "Grendel")
+
+> I shake my two hairy fists at the sky and I let out a tweet so unspeakable that the water at my feet turns sudden ice and even I myself am left uneasy.
 
 Sit down and enjoy the story of Grendel. One tweet an hour.
 
